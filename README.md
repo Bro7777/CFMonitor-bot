@@ -1,4 +1,4 @@
-# 🚀 CFMonitor
+# 🤖 CFMonitor
 
 **CFMonitor** is a powerful and minimalistic Discord bot that monitors [Codeforces](https://codeforces.com) activity — contests, submissions, and user statistics — in real-time.
 
